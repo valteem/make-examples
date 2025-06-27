@@ -1,0 +1,1 @@
+insert into properties (prop_descr) values ('some property'), ('some other property');
